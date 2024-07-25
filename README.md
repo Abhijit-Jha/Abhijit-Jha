@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Food-app](https://github.com/Abhijit-Jha/Food-app)
 
-- 🌱 I’m currently learning **MERN Stack and Python**
+- 🌱 I’m currently learning **MERN Stack and DSA**
 
 - 👯 I’m looking to collaborate on **PortFolio**
 
