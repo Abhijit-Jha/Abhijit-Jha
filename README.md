@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijit Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Food-app](https://github.com/Abhijit-Jha/Food-app)
+- 🔭 I’m currently working on [InnoVerse - A project Sharing Website](https://github.com/Abhijit-Jha/)
 
 - 🌱 I’m currently learning **MERN Stack and DSA**
 
