@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img width="12" />
-  <a href="https://www.linkedin.com/in/abhijit-jha1/">
+  <a href="https://www.linkedin.com/in/abhijit-jha/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <img width="12" />
@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abhijit-Jha/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Abhijit-Jha/Abhijit-Jha/output/snake.svg" alt="Snake animation" />
 
 ###
